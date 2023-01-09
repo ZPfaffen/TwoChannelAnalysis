@@ -1,0 +1,15 @@
+Project Notes: Two Channel Emission Analysis
+
+Script Names:
+
+selectNanoparticlesForOverlay.m
+
+cropAndOverlay.m
+
+appendNPs.m
+
+findNP_mol_off_win.m
+
+subtractChannelFromFits.m
+
+twoChannelWrapper.m
